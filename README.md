@@ -1,5 +1,5 @@
 **Cache service**
-The main purpose of a cache is achieve the following
+The main purpose of a cache is to achieve the following
 1) Fast lookup
 2) Fast insertion
 But this performance comes with a cost of memory because, most cache
